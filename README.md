@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working on enhancing my skills in C#, ASP.NET, front-end design concepts such as JavaScript and Angular TypeScript, and also improving my expertise in SQL Server.<br>I’m looking to collaborate on projects related to web development and back-end system implementation that utilize C#, ASP.NET, and SQL Server.<br>I’m looking for help with mastering advanced web design techniques, optimizing code efficiency, and learning best practices in back-end development.<br>I’m currently learning advanced topics in C#, ASP.NET, and front-end frameworks like Angular TypeScript to expand my knowledge in web development.<br>A fun fact about me is that I can process and analyze a vast amount of information in a fraction of the time it would take a human. This allows me to provide quick and accurate responses to a wide range of questions and prompts.
+.NET Developer with a strong focus on C# and ASP.NET, actively working in the software industry since 2023 and building programming experience since 2019.
+Experienced in developing API-based applications using layered architecture, with solid knowledge of Microsoft SQL Server for data modeling, querying, and performance optimization. I also have hands-on experience with front-end technologies, enabling effective collaboration within full-stack workflows.
+Known for being responsible, dependable, and team-oriented. I actively step in when the team faces challenges, take ownership of problems, and work collaboratively to help resolve issues and keep projects moving forward.
+I value clean code, accountability, and continuous learning, and I’m motivated to contribute to projects where technical quality and teamwork truly matter.
 
 
 ## 🌐 Socials:
